@@ -11,7 +11,9 @@
       "info-card#home",
       "rich-text#question",
       "rich-text#link",
-      "newsletter"
+      "rich-text#avera",
+      "newsletter",
+      "prixiestViewer"
     ],
     "parent": {
        "challenge": "challenge.trade-policy-condition"
@@ -23,7 +25,6 @@
       "redirectPath": "/account"
     }
   },
-
   "list-context.image-list#demo": {
     "children": ["slider-layout#demo-images"],
     "props": {
@@ -65,6 +66,17 @@
       "blockClass": "shelfTitle"
     }
   },
+  "rich-text#avera": {
+    "props": {
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "text": "Soy Alejandro Vera Carrasquilla",
+      "textColor": "#000",
+      "font": "t-heading-5",
+      "blockClass": "help-message"
+    }
+  },
+
   "flex-layout.row#shelf": {
     "children":["shelf"]
     // "children": ["list-context.product-list#demo1"]

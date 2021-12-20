@@ -73,7 +73,9 @@
       "search-bar",
       "locale-switcher",
       "login",
-      "minicart.v2"
+      "minicart.v2",
+      "goToQuoteButton",
+      "prixiestViewer"
     ]
   },
   "flex-layout.col#logo-desktop": {
@@ -139,5 +141,7 @@
       "url": "assets/img/logo-sr.png",
       "width": "180"
     }
-  }
+  },
+
+  "goToQuoteButton":{}
 }

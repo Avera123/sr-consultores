@@ -10,6 +10,6 @@
     "props": {
       "customPixelEventId": "add-to-cart-button"
     },
-    "children": ["minicart-base-content"]
+    "children": ["minicart-base-content", "prixiestViewer"]
   }
 }
