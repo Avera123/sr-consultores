@@ -24,9 +24,6 @@
     },
     "children": ["breadcrumb"]
   },
-
-
-
   // Images and Items
   "flex-layout.row#images-and-items": {
     "children": [
