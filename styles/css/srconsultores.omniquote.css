@@ -1,0 +1,13 @@
+
+.quantityOnQuoteCounter {
+    display: block;
+    position: relative;
+    top: -48px;
+    right: -50px;
+    background-color: #2a71b6;
+    border-radius: 1em;
+    width: 1em;
+    text-align: center;
+    font-size: medium;
+    color: #fff;
+  }

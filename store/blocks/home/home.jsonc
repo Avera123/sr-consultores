@@ -11,9 +11,7 @@
       "info-card#home",
       "rich-text#question",
       "rich-text#link",
-      "rich-text#avera",
-      "newsletter",
-      "prixiestViewer"
+      "newsletter"
     ],
     "parent": {
        "challenge": "challenge.trade-policy-condition"

@@ -2,15 +2,8 @@
   "store.product": {
     "children": [
       "flex-layout.row#product-breadcrumb",
-      // "flex-layout.row#product-main",
       "flex-layout.row#images-and-items",
       "flex-layout.row#buy-button",
-      // "flex-layout.row#description",
-      // "flex-layout.row#specifications-title",
-      // "product-specification-group#table",
-      // "shelf.relatedProducts",
-      // "product-reviews",
-      // "product-questions-and-answers"
       "addToQuoteButton"
     ]
   },

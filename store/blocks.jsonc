@@ -22,20 +22,6 @@
   "store.login": {
     "blocks": ["login-content#default"]
   },
-
-  "store.omniquote":{
-    "blocks": ["omniquote","addToQuoteButton", "goToQuoteButton"]
-  },
-
-  "addToQuoteButton":{},
-  "goToQuoteButton":{},
-
-  "store.prixiest":{
-    "blocks":[
-      "prixiest","prixiestViewer"
-    ]
-  },
-  "prixiestViewer":{},
   
   "login-content#default": {
     "props": {
