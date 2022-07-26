@@ -3,12 +3,9 @@
     "children": [
       "flex-layout.row#product-breadcrumb",
       "flex-layout.row#images-and-items",
-      "flex-layout.row#buy-button",
-      "addToQuoteButton"
+      "flex-layout.row#buy-button"
     ]
   },
-
-  "addToQuoteButton":{},
   
   // BreadCrumb
   "flex-layout.row#product-breadcrumb": {

@@ -113,7 +113,6 @@
       "add-to-cart-button#buyNow"
     ]
   },
-
   "add-to-cart-button#buyNow": {
     "props": {
       "text": "BUY NOW",
